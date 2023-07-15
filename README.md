@@ -1,5 +1,8 @@
 # MLTradeLabz
 
+![stock trading](https://thumbs.gfycat.com/EuphoricIcyAmericanshorthair-size_restricted.gif)
+
+
 🚀 Welcome to MLTradeLabz, an exciting repository dedicated to stock market prediction using cutting-edge machine learning approaches. Our repository hosts two remarkable projects: Time-Series Stock Market and TradeRL. 📈💻
 
 ## Time-Series Stock Market
